@@ -23,5 +23,6 @@ A fully responsive music player built using HTML, CSS, and JavaScript. This proj
    ```bash
    git clone https://github.com/khushii-19/Spotify__Clone.git
 2. Navigate to the project folder:
+ ```bash
    cd Spotify__Clone
-3. Open index.html in your browser or use Live Server for better performance.
+
